@@ -20,7 +20,7 @@ print("\n✅ Все технологии загружены!")
 print()
 print("""
 ╔═══════════════════════════════════════════════════╗
-║     SMC Calculator v1.3.5 snapshot 5             ║
+║     SMC Calculator                               ║
 ║     SevenMemoryCells Technology (SMC)            ║
 ║     + MAD (Memory All Delete)                    ║
 ║     + NMC (NotebookMemoryCell)                   ║
